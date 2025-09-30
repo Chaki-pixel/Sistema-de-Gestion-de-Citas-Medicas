@@ -9,6 +9,10 @@ public class Paciente extends AuditEntity {
     private String cedula;
     private LocalDate fechaNacimiento;
     private String telefono;
+	public int getId() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 
     // Getters and setters
 }
